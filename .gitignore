@@ -99,6 +99,4 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Project outputs
-data/output/
 

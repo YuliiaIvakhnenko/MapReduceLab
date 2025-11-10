@@ -1,0 +1,23 @@
+1	vowels: 52.73%    consonants: 47.27%
+10	vowels: 40.8%    consonants: 59.2%
+11	vowels: 42.26%    consonants: 57.74%
+12	vowels: 41.45%    consonants: 58.55%
+13	vowels: 39.96%    consonants: 60.04%
+14	vowels: 42.52%    consonants: 57.48%
+15	vowels: 43.69%    consonants: 56.31%
+16	vowels: 41.72%    consonants: 58.28%
+17	vowels: 42.35%    consonants: 57.65%
+18	vowels: 39.58%    consonants: 60.42%
+19	vowels: 39.94%    consonants: 60.06%
+2	vowels: 49.77%    consonants: 50.23%
+21	vowels: 35.71%    consonants: 64.29%
+25	vowels: 40.0%    consonants: 60.0%
+3	vowels: 38.73%    consonants: 61.27%
+4	vowels: 44.39%    consonants: 55.61%
+5	vowels: 42.67%    consonants: 57.33%
+6	vowels: 42.79%    consonants: 57.21%
+7	vowels: 43.19%    consonants: 56.81%
+8	vowels: 41.43%    consonants: 58.57%
+9	vowels: 41.36%    consonants: 58.64%
+long_words	15094
+total_words	25173
